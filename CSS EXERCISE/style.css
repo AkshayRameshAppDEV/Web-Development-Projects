@@ -1,0 +1,9 @@
+p
+{
+	width: 50%;
+	padding: 10px;
+	border-left: 2px solid blue;
+	border-right: 2px solid green;
+	border-top: 2px solid yellow;
+	border-bottom: 2px solid red;
+}

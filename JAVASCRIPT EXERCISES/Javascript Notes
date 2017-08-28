@@ -1,0 +1,16 @@
+Java Script Notes:-
+
+Variable ----->  var
+Three useful functions -----> alert
+							  prompt
+							  console.log
+
+clear() clears the console
+
+alert - pops up the message
+		alert("Hello there!!!!");
+
+console.log - prints in to the console.
+			  console.log();
+prompt - gets input from the user;
+		 prompt("user")

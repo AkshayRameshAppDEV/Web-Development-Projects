@@ -1,0 +1,21 @@
+/*border color:#bdc3c7;
+date color: #3498db;
+h2 color:  #2c3e50
+
+font: source sans pro;*/
+
+body
+{
+	border: 20px solid #bdc3c7;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.dateColor
+{
+	color: #3498db;
+}
+
+h2
+{
+	color: #2c3e50;
+}

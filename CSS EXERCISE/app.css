@@ -1,0 +1,21 @@
+
+li
+    {
+    	color: green;
+    }
+h4 
+	{
+		background-color: #ff0000;
+	}
+ h1
+ {
+
+ 	border: 5px dashed red;
+ 	color: yellow;
+ }
+body
+{
+	background: url("http://images5.fanpop.com/image/photos/25000000/danbo-pkmnkats-hobbies-25083724-1920-1200.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
